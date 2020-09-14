@@ -1,0 +1,16 @@
+C:\GIT\BrickWall\BrickWallCodingChallenge\BrickWallCodingChallenge\BrickWall.Application\bin\Debug\netcoreapp3.1\BrickWall.Application.exe
+C:\GIT\BrickWall\BrickWallCodingChallenge\BrickWallCodingChallenge\BrickWall.Application\bin\Debug\netcoreapp3.1\BrickWall.Application.deps.json
+C:\GIT\BrickWall\BrickWallCodingChallenge\BrickWallCodingChallenge\BrickWall.Application\bin\Debug\netcoreapp3.1\BrickWall.Application.runtimeconfig.json
+C:\GIT\BrickWall\BrickWallCodingChallenge\BrickWallCodingChallenge\BrickWall.Application\bin\Debug\netcoreapp3.1\BrickWall.Application.runtimeconfig.dev.json
+C:\GIT\BrickWall\BrickWallCodingChallenge\BrickWallCodingChallenge\BrickWall.Application\bin\Debug\netcoreapp3.1\BrickWall.Application.dll
+C:\GIT\BrickWall\BrickWallCodingChallenge\BrickWallCodingChallenge\BrickWall.Application\bin\Debug\netcoreapp3.1\BrickWall.Application.pdb
+C:\GIT\BrickWall\BrickWallCodingChallenge\BrickWallCodingChallenge\BrickWall.Application\obj\Debug\netcoreapp3.1\BrickWall.Application.AssemblyInfoInputs.cache
+C:\GIT\BrickWall\BrickWallCodingChallenge\BrickWallCodingChallenge\BrickWall.Application\obj\Debug\netcoreapp3.1\BrickWall.Application.AssemblyInfo.cs
+C:\GIT\BrickWall\BrickWallCodingChallenge\BrickWallCodingChallenge\BrickWall.Application\obj\Debug\netcoreapp3.1\BrickWall.Application.csproj.CoreCompileInputs.cache
+C:\GIT\BrickWall\BrickWallCodingChallenge\BrickWallCodingChallenge\BrickWall.Application\obj\Debug\netcoreapp3.1\BrickWall.Application.dll
+C:\GIT\BrickWall\BrickWallCodingChallenge\BrickWallCodingChallenge\BrickWall.Application\obj\Debug\netcoreapp3.1\BrickWall.Application.pdb
+C:\GIT\BrickWall\BrickWallCodingChallenge\BrickWallCodingChallenge\BrickWall.Application\obj\Debug\netcoreapp3.1\BrickWall.Application.genruntimeconfig.cache
+C:\GIT\BrickWall\BrickWallCodingChallenge\BrickWallCodingChallenge\BrickWall.Application\bin\Debug\netcoreapp3.1\BrickWall.Library.dll
+C:\GIT\BrickWall\BrickWallCodingChallenge\BrickWallCodingChallenge\BrickWall.Application\bin\Debug\netcoreapp3.1\BrickWall.Library.pdb
+C:\GIT\BrickWall\BrickWallCodingChallenge\BrickWallCodingChallenge\BrickWall.Application\obj\Debug\netcoreapp3.1\BrickWall.Application.csprojAssemblyReference.cache
+C:\GIT\BrickWall\BrickWallCodingChallenge\BrickWallCodingChallenge\BrickWall.Application\obj\Debug\netcoreapp3.1\BrickWall.Application.csproj.CopyComplete

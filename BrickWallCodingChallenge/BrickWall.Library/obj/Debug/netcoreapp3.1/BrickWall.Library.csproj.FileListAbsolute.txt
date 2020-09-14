@@ -1,0 +1,8 @@
+C:\GIT\BrickWall\BrickWallCodingChallenge\BrickWallCodingChallenge\BrickWall.Library\bin\Debug\netcoreapp3.1\BrickWall.Library.deps.json
+C:\GIT\BrickWall\BrickWallCodingChallenge\BrickWallCodingChallenge\BrickWall.Library\bin\Debug\netcoreapp3.1\BrickWall.Library.dll
+C:\GIT\BrickWall\BrickWallCodingChallenge\BrickWallCodingChallenge\BrickWall.Library\bin\Debug\netcoreapp3.1\BrickWall.Library.pdb
+C:\GIT\BrickWall\BrickWallCodingChallenge\BrickWallCodingChallenge\BrickWall.Library\obj\Debug\netcoreapp3.1\BrickWall.Library.AssemblyInfoInputs.cache
+C:\GIT\BrickWall\BrickWallCodingChallenge\BrickWallCodingChallenge\BrickWall.Library\obj\Debug\netcoreapp3.1\BrickWall.Library.AssemblyInfo.cs
+C:\GIT\BrickWall\BrickWallCodingChallenge\BrickWallCodingChallenge\BrickWall.Library\obj\Debug\netcoreapp3.1\BrickWall.Library.csproj.CoreCompileInputs.cache
+C:\GIT\BrickWall\BrickWallCodingChallenge\BrickWallCodingChallenge\BrickWall.Library\obj\Debug\netcoreapp3.1\BrickWall.Library.dll
+C:\GIT\BrickWall\BrickWallCodingChallenge\BrickWallCodingChallenge\BrickWall.Library\obj\Debug\netcoreapp3.1\BrickWall.Library.pdb
