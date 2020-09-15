@@ -6,3 +6,4 @@ C:\GIT\BrickWall\BrickWallCodingChallenge\BrickWallCodingChallenge\BrickWall.Lib
 C:\GIT\BrickWall\BrickWallCodingChallenge\BrickWallCodingChallenge\BrickWall.Library\obj\Debug\netcoreapp3.1\BrickWall.Library.csproj.CoreCompileInputs.cache
 C:\GIT\BrickWall\BrickWallCodingChallenge\BrickWallCodingChallenge\BrickWall.Library\obj\Debug\netcoreapp3.1\BrickWall.Library.dll
 C:\GIT\BrickWall\BrickWallCodingChallenge\BrickWallCodingChallenge\BrickWall.Library\obj\Debug\netcoreapp3.1\BrickWall.Library.pdb
+C:\GIT\BrickWall\BrickWallCodingChallenge\BrickWallCodingChallenge\BrickWall.Library\obj\Debug\netcoreapp3.1\BrickWall.Library.csprojAssemblyReference.cache

@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30225.117
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrickWall.Application", "BrickWall.Application\BrickWall.Application.csproj", "{6F19589C-6C05-48FF-B9C5-7E89B220B4F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BrickWall.Application", "BrickWall.Application\BrickWall.Application.csproj", "{6F19589C-6C05-48FF-B9C5-7E89B220B4F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrickWall.Library", "BrickWall.Library\BrickWall.Library.csproj", "{EC4EA20C-4616-4FA2-9899-87C53B435605}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BrickWall.Library", "BrickWall.Library\BrickWall.Library.csproj", "{EC4EA20C-4616-4FA2-9899-87C53B435605}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrickWall.Test", "BrickWall.Test\BrickWall.Test.csproj", "{359E0DA3-7403-4FEE-8751-CA8D1965F954}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BrickWall.Test", "BrickWall.Test\BrickWall.Test.csproj", "{359E0DA3-7403-4FEE-8751-CA8D1965F954}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
